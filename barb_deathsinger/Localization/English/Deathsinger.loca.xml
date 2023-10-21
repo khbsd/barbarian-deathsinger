@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList date="26/10/2020 01:10">
+<!--MAIN NAME AND DESCRIPTION-->
+	<content contentuid="KHB_deathSinger_DisplayName" version="1">Deathsinger</content> 
+	<content contentuid="KHB_deathSinger_Description" version="1">What is rage, but pleasure unfulfilled? These barbarians are driven to cold &lt;LSTag Tooltip="Rage"&gt;rage&lt;/LSTag&gt; in pursuit of death, the future pleasure of a kill warping the bones of their bodies to grow through the skin, and absorb a successful hunt- and it will be successful.</content>
+
+<!--TRAITS-->
+	<content contentuid="KHB_calcifiedCruelty_DisplayName" version="1">Calcified Cruelty</content>
+	<content contentuid="KHB_calcifiedCruelty_Description" version="1">Being constantly bathed in blood has its advantages, and not just for your pores. After five kills, your body absorbs the nutrients in your prey's blood to fortify its defenses, granting you a bonus +1 to Constitution. This bonus is capped at +1 until Barbarian levels 5 and 11, where it is increased to +2 and +3 respectively. For each cap increase, you will need to kill five times to receive the bonus.</content>
+
+	<content contentuid="KHB_bloodForMarrow_DisplayName" version="1">Blood for Marrow</content>
+	<content contentuid="KHB_bloodForMarrow_Description" version="1">As a reaction, when you deal slashing damage to a target, you may gain temporary hp equal to the slashing damage done. If multiple targets are hit, you take the highest amount of slashing damage done to one target as temporary hp. You may not use this ability again until you have no temporary hp left.</content>
+
+	<content contentuid="KHB_marrowForBlood_DisplayName" version="1">Marrow for Blood</content>
+	<content contentuid="KHB_marrowForBlood_Description" version="1">As an action, you may use your remaining temporary hp from Blood for Marrow to heal an amount equal to the temporary hp used. You may not use this ability if you have used Blood for Marrow this turn.</content>
+
+	<content contentuid="KHB_growingBanes_DisplayName" version="1">Growing Banes</content>
+	<content contentuid="KHB_growingBanes_Description" version="1">When you rage, your bones react to your murderous intent. If you are unarmed, you may grow weapons of bone to use in the fight. These weapons may take any shape, but the shape does not impact the stats or the damage of the weapon. Each weapon deals 1d6 plus half your bonus rage damage as slashing damage, and has the properties Light, Thrown, and Versatile. You are considered proficient with these weapons. At Barbarian level 10, this increases to 1d8 plus your full bonus rage damage, and you add half your proficiency bonus to hit.</content>
+
+	<content contentuid="KHB_boneRest_DisplayName" version="1">Bone Rest for the Wicked</content>
+	<content contentuid="KHB_boneRest_Description" version="1">After combat, if you have killed at least one enemy, you may harvest 1d4 bones from their corpse as Bone Charges. The next time you short rest, you heal an extra d4 of health for each Bone Charge you have. The maximum number of Bone Charges you may carry is limited to your proficiency bonus.</content>
+	
+	<content contentuid="KHB_veilEdge_DisplayName" version="1">Veil's Edge'</content>
+	<content contentuid="KHB_veilEdge_Description" version="1">Your bone weapons from Growing Banes have channeled your desire for blood, and treat immunity to slashing damage as resistance, and ignore resistance to slashing damage.</content>
+
+</contentList>

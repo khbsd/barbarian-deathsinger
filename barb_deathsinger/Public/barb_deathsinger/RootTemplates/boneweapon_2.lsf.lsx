@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>				
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="Handle from xml localization file" version="1" /> CHANGE THIS - Pointing to the Handle for the description in the XML file in the localization folder
+					<attribute id="DisplayName" type="TranslatedString" handle="Handle from xml localization file" version="1" /> CHANGE THIS - Pointing to the Handle for the display name in the XML file in the localization folder
+					<attribute id="EquipmentTypeID" type="guid" value="896f8a20-7dda-4bff-b726-08c3dacccc7b" />
+					<attribute id="Flag" type="int64" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Battleaxe_A_0" />  maybe edit this later.
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int64" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="30777af1-ba29-45ff-9063-1bce5ab5ddc0" />
+					<attribute id="Name" type="LSString" value="KHB_boneWeapon_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="2f5c7142-c8d7-4f6a-98b9-47a3ed00e1c5" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4f2fed9-ca4c-4ab0-8d77-2c9c1773d2ba" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="KHB_boneWeapon_2" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c6656cd6-7256-4f10-8f44-0c84cf259c87" />  
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int64" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>			
+			</children>
+		</node>
+	</region>
+</save>

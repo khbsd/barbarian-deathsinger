@@ -1,0 +1,6 @@
+new entry "KHB_ACTESTPASSIVE"
+type "PassiveData"
+using 
+data "DisplayName" "KHB_deathSinger_DisplayName"
+data "Description" "KHB_deathSinger_Description"
+data "Boosts" "ACOverrideFormula(20 + Constitution)"

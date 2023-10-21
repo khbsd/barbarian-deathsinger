@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf922abcfgb27dg4e38ga879g419b23b374cc" version="1"/> Subclass Description
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd736dc8cgf832g44dbg92fag23cd9dc6bd87" version="1"/> Subclass Name
+                    <attribute id="Type" type="FixedString" value="Deathsinger"/>
+					<attribute id="ProgressionTableId" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="32d52432-7b9b-4036-9089-3e93b30ea668"/>
+                </node>			
+            </children>
+        </node>
+    </region>
+</save>

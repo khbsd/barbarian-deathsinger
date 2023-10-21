@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level6" type="LSString" value="2d4"/>
+                    <attribute id="Level9" type="LSString" value="3d4"/>
+                    <attribute id="Level12" type="LSString" value="4d4"/>
+                    <attribute id="Name" type="FixedString" value=""/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level6" type="LSString" value="2d8"/>
+                    <attribute id="Level9" type="LSString" value="3d8"/>
+                    <attribute id="Level12" type="LSString" value="4d8"/>
+                    <attribute id="Name" type="FixedString" value=""/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level6" type="LSString" value="2d4"/>
+                    <attribute id="Level9" type="LSString" value="3d4"/>
+                    <attribute id="Level12" type="LSString" value="4d4"/>
+                    <attribute id="Name" type="FixedString" value=""/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

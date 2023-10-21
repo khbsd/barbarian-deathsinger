@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+				<node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h8f2b4a44g1245g4c09g8849g388a502232b4" version="1"/> 
+                    <attribute id="DiceType" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hda3b6de7g1741g4f8dg851bg2f190ff9604e" version="1"/>
+                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
+					<attribute id="MaxLevel" type="uint32" value="0"/>
+					<attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="PoisonerArsenalCharge"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="35768ef7-6280-4535-81b3-6ea5cdb47130"/>
+					<attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/> 
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
